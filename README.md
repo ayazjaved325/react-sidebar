@@ -4,7 +4,6 @@ In the project directory, you can run: ### `npm install` first to download the d
 
 Then:
 
-
 ### `npm start`
 
 Runs the app in the development mode.\
