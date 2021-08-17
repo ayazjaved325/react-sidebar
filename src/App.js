@@ -7,6 +7,7 @@ import Reports from './pages/Reports';
 import Products from './pages/Products';
 import Team from './pages/Team';
 import Messages from './pages/Messages';
+import Support from './pages/Support';
 function App() {
   return (
     <>
@@ -18,6 +19,7 @@ function App() {
           <Route path='/products' component={Products} />
           <Route path='/Team' component={Team} />
           <Route path='/Messages' component={Messages} />
+          <Route path='/Support' component={Support} />
         </Switch>
       </Router>
     </>
